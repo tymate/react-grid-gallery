@@ -4,6 +4,7 @@
   "description": "Justified gallery component for React.",
   "main": "lib/Gallery.js",
   "dependencies": {
+    "react-grid-gallery": "^0.3.3",
     "react-images": "^0.5.2"
   },
   "devDependencies": {
@@ -20,13 +21,13 @@
     "gulp-gh-pages": "^0.5.4",
     "gulp-if": "^2.0.1",
     "gulp-uglify": "^2.0.0",
+    "prop-types": "^15.5.8",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
     "run-sequence": "^1.2.2",
     "vinyl-buffer": "^1.0.0",
     "vinyl-source-stream": "^1.1.0",
-    "watchify": "^3.7.0",
-    "prop-types": "^15.5.8"
+    "watchify": "^3.7.0"
   },
   "repository": {
     "type": "git",
